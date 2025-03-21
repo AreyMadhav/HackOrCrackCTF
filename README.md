@@ -54,7 +54,7 @@ Submit your flags via the CTF platform's submission form.
 ---
 
 ## Contact and Support
-If you encounter any issues or have questions, feel free to contact us via the official [Hack_or_Crack CTF Discord](https://discord.gg/6Yy4fxgYkT). We're here to help!
+If you encounter any issues or have questions, feel free to contact us via the official [DG Sentinels Discord](https://discord.gg/6Yy4fxgYkT). We're here to help!
 
 ---
 
