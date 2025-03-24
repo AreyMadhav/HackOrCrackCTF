@@ -10,6 +10,7 @@ Welcome to **Hack_or_Crack CTF**, a Capture The Flag competition designed to tes
   - [Reverse Engineering](Reverse_Engineering)
   - [Cryptography](/Cryptography)
   - [GameHacking](/Game%20Hacking)
+  - [OSINT](/OSINT)
 - [Rules](#rules)
 - [How to Submit Flags](#how-to-submit-flags)
 - [Getting Started](#getting-started)
